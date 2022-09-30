@@ -6,8 +6,4 @@ Image segmentation has a lot of amazing applications that solve different comput
 
 Change a original image to a new image with a new background.
 
-Original Image:
-![plot](./image_/rafaelarias-github.jfif)
-
-Background Image:
-![plot](./image_/rafaarias-background.png)![plot](./image_/rafaarias-background2.png)
+![plot](./image_/rafaelarias-github.jfif)![plot](./image_/rafaarias-background2.png)
